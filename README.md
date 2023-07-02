@@ -6,6 +6,8 @@
 
 [Dribble](https://dribbble.com/keshavkumarhembram)
 
+[Resume](./resume/resume.pdf)
+
 ## About Me:
 - I am Full Stack Developer.
 - I'm currently pursuing B.Tech in Electronics and Communication Engineering from the National Institute of Technology (NIT), Rourkela.
