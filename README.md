@@ -14,20 +14,9 @@
 
 
 ## Languages and Tools: 
-<img src="./logo/js.png" style= "width: 40px;">
-<span style="margin-right: 30px"> Javascript </span>
-<img src="./logo/html.png" style= "width: 40px;">
-<span style="margin-right: 30px"> HTML </span>
-<img src="./logo/css.png" style= "width: 40px;">
-<span style="margin-right: 30px"> CSS </span>
-<img src="./logo/nodejs.png" style= "width: 40px;">
-<span style="margin-right: 30px"> NODEjs </span>
-<span style="margin-right: 30px"><img src="./logo/mongodb.png" style= "width: 40px;"> MongoDB </span>
+<img src="./logo/js.png" style= "width: 40px;">Javascript  <img src="./logo/html.png" style= "width: 40px;">HTML <img src="./logo/css.png" style= "width: 40px;">CSS   <img src="./logo/nodejs.png" style= "width: 40px;">NODEjs  <img src="./logo/mongodb.png" style= "width: 40px;"> MongoDB 
 
-<img src="./logo/express.png" style= "width: 40px;">
-<span style="margin-right: 30px"> Express </span>
-<img src="./logo/c++.png" style= "width: 40px;">
-<span style="margin-right: 30px"> C++ </span>
+<img src="./logo/express.png" style= "width: 40px;">Express  <img src="./logo/c++.png" style= "width: 40px;">C++ 
 
 ## My stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keshavkumarhembram&theme=dark)](https://git.io/streak-stats)
